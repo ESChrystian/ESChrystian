@@ -1,8 +1,6 @@
-<h2 align="" >Hey, I'm Chrystian de Almeida, a Web Development and Information Technology student!</h2>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+# Hey, I'm Chrystian de Almeida, a Web Development and Information Technology student!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESChrystian&show_icons=true&theme=tokyonight)  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eschrystian&theme=dark&show_icons=true)
 <div align="">
 <h3>Connect with me:</h3>
 <a href="mailto:concato@Chrystianalmeida04"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
@@ -10,9 +8,11 @@
 </div>
 
 #
-  
-<p align="center"> <img  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />           
-</p>      
-
-
-
+| Learning |
+| --- |
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
