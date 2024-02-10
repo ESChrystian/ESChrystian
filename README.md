@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eschrystian&theme=dark&show_icons=true)
 <div align="">
 <h3>Connect with me:</h3>
-<a href="mailto:concato@Chrystianalmeida04"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
+<a href="[mailto:concato@Chrystianalmeida04](https://mail.google.com/mail/u/0/?pli=1#search/chrystianalmeida04%40gmail.com)"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
 <a href="https://www.instagram.com/c.almeida07/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
 
