@@ -2,6 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eschrystian&theme=dark&show_icons=true)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Eschrystian&layout=compact&theme=dark&show_icons=true)
 <div align="">
 <h3>Connect with me:</h3>
 <a href="mailto:concato@Chrystianalmeida04"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
