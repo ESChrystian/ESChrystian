@@ -1,4 +1,4 @@
-# Hey, I'm Chrystian de Almeida Silva, studying the second year of Technical High School in IT for the Internet at Escola Marista Irmão Acácio.
+## Hey, I'm Chrystian de Almeida Silva, studying the second year of Technical High School in IT for the Internet at Escola Marista Irmão Acácio.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eschrystian&theme=dark&show_icons=true)
