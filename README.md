@@ -1,4 +1,4 @@
-## Hey, I'm Chrystian de Almeida Silva, Computer technician specializing in internet technology, software engineering student at Unifil Londrina.
+## Hey, I'm Chrystian de Almeida Silva, Computer technician specializing in internet technology, software engineering student at UniFil.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eschrystian&theme=dark&show_icons=true)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Eschrystian&layout=compact&theme=dark&show_icons=true)
