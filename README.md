@@ -1,6 +1,6 @@
 ## Hey, I'm Chrystian de Almeida Silva, Computer technician specializing in internet technology, software engineering student at UniFil.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESChrystian&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESChrystian&show_icons=true)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Eschrystian&layout=compact&theme=dark&show_icons=true)
 <div align="">
 <h3>Connect with me:</h3>
