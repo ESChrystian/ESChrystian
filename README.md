@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20I`M%20CHRYSTIAN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=software%20engineering%20student%20specializing%20at%20UniFil.&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20I`M%20CHRYSTIAN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=software%20engineering%20student%20at%20UniFil.&descAlignY=51&descAlign=62"/>
 </p>
 
 ## Hey, I'm Chrystian de Almeida Silva, Computer technician specializing in internet technology, software engineering student at UniFil.
