@@ -2,7 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20I`M%20CHRYSTIAN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=software%20engineering%20student%20at%20UniFil.&descAlignY=51&descAlign=62"/>
 </p>
 
-## Hey, I'm Chrystian de Almeida Silva, am an Internet Informatics Technician from Marista Irmão Acácio and currently a Software Engineering student at UniFil.
+## Hey, I'm Chrystian de Almeida Silva, I have a technical degree in Internet Informatics from Marista Irmão Acácio and I am currently a Software Engineering student at UniFil.
+
+
 
 
 <div align=center style="flex: 1; padding: 10px; margin-left: 20px;">
