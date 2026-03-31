@@ -11,7 +11,7 @@
 
   <picture>
     <source media="(prefers-color-scheme:dark)" srcset="https://github-used-languages.vercel.app/ESChrystian?theme=dark">
-    <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/ESChrystian">
+    <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/ESChrystian">
   </picture>
 </div>
 
