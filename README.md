@@ -1,7 +1,20 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20I`M%20CHRYSTIAN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=software%20engineering%20student%20specializing%20at%20UniFil.&descAlignY=51&descAlign=62"/>
+</p>
+
 ## Hey, I'm Chrystian de Almeida Silva, Computer technician specializing in internet technology, software engineering student at UniFil.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESChrystian&show_icons=true)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Eschrystian&layout=compact&theme=dark&show_icons=true)
+<div style="flex: 1; padding: 10px; margin-left: 20px;">
+ 
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ESChrystian&theme=dark" alt="GitHub Streak" /></a>   
+
+
+  <picture>
+    <source media="(prefers-color-scheme:dark)" srcset="https://github-used-languages.vercel.app/ESChrystian?theme=dark">
+    <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/ESChrystian">
+  </picture>
+</div>
+
 <div align="">
 <h3>Connect with me:</h3>
 <a href="mailto:concato@Chrystianalmeida04"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
