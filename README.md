@@ -5,7 +5,7 @@
 ## Hey, I'm Chrystian de Almeida Silva, am an Internet Informatics Technician from Marista Irmão Acácio and currently a Software Engineering student at UniFil.
 
 
-<div style="flex: 1; padding: 10px; margin-left: 20px;">
+<div align=center style="flex: 1; padding: 10px; margin-left: 20px;">
  
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ESChrystian&theme=dark" alt="GitHub Streak" /></a>   
 
